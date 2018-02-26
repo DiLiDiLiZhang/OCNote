@@ -1,4 +1,5 @@
-!!!! 本地文件上传到github的方法
+
+// MARK: mark - GitHub相关
 touch README.md //新建一个记录提交操作的文档
 git init //初始化本地仓库
 git add README.md //添加
@@ -10,4 +11,6 @@ git push -u origin master //将本地仓库的东西提交到地址是origin的�
 
 // Object-C的一些基础
 1.OC是一门动态编程语言
-
+动态与静态是相对的，
+参考：①https://jingyan.baidu.com/article/636f38bb4f08f9d6b846103f.html
+②https://www.cnblogs.com/dxb123456/p/5525343.html
